@@ -1,0 +1,17 @@
+# AfterMotionZ – iOS Port  
+Re-animated from Android APK → SwiftUI + Metal → sideload-ready IPA.
+
+---
+
+### 🔽 One-Tap Download
+[![Download IPA](https://img.shields.io/badge/IPA-Download-blue?style=for-the-badge&logo=apple)](https://github.com/YOUR_USERNAME/amz-ios-necro/releases/download/v1.0/AMZ.ipa)
+
+> Replace `YOUR_USERNAME` with **Dtsyhru** once you publish the release (see next step).
+
+---
+
+### ⚙️ Build Yourself (optional)
+```bash
+git clone https://github.com/Dtsyhru/amz-ios-necro.git
+cd amz-ios-necro
+./transmute.sh   # requires macOS or GitHub Codespaces
